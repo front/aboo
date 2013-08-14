@@ -1,1 +1,1 @@
-# Solution for newspapers
+# Solution for magazines
